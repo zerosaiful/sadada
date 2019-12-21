@@ -1,4 +1,4 @@
-# Saif
+# A. Helpful Maths
 package com.detatype;
 
 import java.util.Arrays;
